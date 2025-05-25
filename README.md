@@ -28,7 +28,7 @@
 
     . Comparer les performances des deux algorithmes graphiquement.
 
-🚖 TP5 : Apprentissage Profond avec PPO et Taxi-v3
+🚖 TP4 : Apprentissage Profond avec PPO et Taxi-v3
 
 🔹 Objectif :
 
